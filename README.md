@@ -1,2 +1,2 @@
 # LuaNModules
-Modulos Lua pessoas
+Modulos Lua pessoais
